@@ -1,4 +1,4 @@
 # Calculator
 一个用JavaScript编写简易计算器
 
-这是一个单纯使用html,css，javaScript编写一个的简易的web版计算机，可以支持简单的四则运算
+这是一个单纯使用html,css，javaScript编写一个的简易的web版计算机，可以支持简单的四则运算；简易使用Hbuilder导入该项目进行二次开发
